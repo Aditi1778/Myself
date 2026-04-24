@@ -25,7 +25,7 @@
   <img src="https://streak-stats.demolab.com?user=Aditi1778&theme=radical" /> 
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;FastAPI+Developer;Building+AI+Products&center=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;GenAI+Developer;Building+AI+Products&center=true&width=500&height=50)
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
